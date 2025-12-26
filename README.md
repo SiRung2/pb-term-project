@@ -22,8 +22,13 @@ npm run dev
 npm run build
 
 ## 실행 방법 (모바일)
+1. 폰 개발자 옵션 -> USB 디버깅 ON
+2. USB 연결 후: 
+cd mobile
 flutter pub get
 flutter run
+
+
 
 ### WebApp 실행(로컬)
 ```bash 
