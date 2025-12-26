@@ -17,9 +17,9 @@ Google 로그인 후 To-Do 데이터를 Firestore에 저장/조회/수정/삭제
 - Web/Mobile이 같은 Firestore(todos 컬렉션) 데이터를 공유
 
 ## 실행 방법 (웹)
-npm install
-npm run dev
-npm run build
+-npm install
+-npm run dev
+-npm run build
 
 ## 실행 방법 (모바일)
 1. 폰 개발자 옵션 -> USB 디버깅 ON
